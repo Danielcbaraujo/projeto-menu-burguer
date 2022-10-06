@@ -8,9 +8,9 @@ Grande Telas: acima de 1200px
 */
 @media screen and (min-width:768px) {
 
-        i#burguer {
-            display:none;
-        }
+    span#burguer {
+        display:none;
+    }
 
     menu {
         display:block;
@@ -19,5 +19,9 @@ Grande Telas: acima de 1200px
     menu > ul > li {
         display: inline-block;
         }
+    }
+
+    main{
+        width: 740px;
     }
  
